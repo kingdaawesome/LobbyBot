@@ -1,0 +1,20 @@
+{
+    "email": "StrayfadeLobbyBot@gmail.com",
+    "password": "Android543",
+    "cid": "CID_028_Athena_Commando_F",
+    "bid": "BID_004_BlackKnight",
+    "pid": "Pickaxe_Lockjaw",
+    "banner": "otherbanner28",
+    "banner_colour": "defaultcolor22",
+    "level": "1",
+    "bp_tier": 1,
+    "status": "Subscribe to Strayfade",
+    "platform": "PSN",
+    "friendaccept": "True",
+    "joinoninvite": "True",
+    "AdminPassword": "0001",
+    "FullAccess": [
+        "\u0405trayfade"
+    ],
+    "BlockList": []
+}
